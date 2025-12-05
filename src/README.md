@@ -1,0 +1,8 @@
+- [ ] Bug: the textarea is not resizing down
+- [ ] Synchronize signal 'diffs' with IndexedDB or localStorage
+- [ ] Synchronize signal 'settings' with IndexedDB or localStorage
+- [ ] Style: make it cool
+- [ ] Make a cool radio input group component
+- [ ] Make panels resizable
+- [ ] Add a proper favicon
+- [ ] Allow file uploading: Word, Excel, PDF (if possible)

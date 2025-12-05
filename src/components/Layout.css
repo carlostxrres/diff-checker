@@ -1,0 +1,15 @@
+#app {
+    display: grid;
+    min-height: 100dvh;
+    grid-template-rows: auto 1fr auto;
+
+    max-width: 1800px;
+    /* text-align: center; */
+    margin-inline: auto;
+    padding-inline: 2rem;
+}
+
+#app>header,
+#app>footer {
+    padding: 1rem 0;
+}

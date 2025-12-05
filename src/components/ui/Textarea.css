@@ -1,0 +1,29 @@
+.textarea {
+    border: 1px solid #ccc;
+    padding: .3rem .6rem;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+
+    resize: none;
+    overflow: hidden;
+}
+
+/* .textarea {
+    background: #F9F9F9;
+    border-color: #BBB #D9D9D9 #DDD;
+    border-radius: 4px;
+    outline: none;
+
+    overflow: auto;
+    font: 1em monospace;
+    width: 100%;
+    resize: none;
+}
+
+.textarea:focus {
+    background: #FFF;
+    border-color: #6699cc;
+    box-shadow: 0 0 4px #2175c9;
+} */

@@ -1,0 +1,4 @@
+.diffs {
+    display: flex;
+    flex-direction: column;
+}

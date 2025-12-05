@@ -1,0 +1,11 @@
+.settings {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.settings label {
+    display: flex;
+    align-items: center;
+    gap: .3rem;
+}
